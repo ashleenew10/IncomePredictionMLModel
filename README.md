@@ -12,3 +12,6 @@ Follow these steps in order to use and deploy this:
  5) Set the main file to the .py (seen in this repository)
  6) Click "Deploy" on Streamlit Cloud (make sure to include ML package files in repository)
 
+
+My streamlit app: https://ashlee-income-prediction.streamlit.app/
+
